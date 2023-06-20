@@ -1,0 +1,2 @@
+# JMWMZBannerPrivatePodspecs
+JMWMZBanner's  PrivatePodspecs
